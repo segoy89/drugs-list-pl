@@ -1,0 +1,20 @@
+.DS_Store
+*.gem
+*.rbc
+.env*
+!.env*.template
+tmp/*
+
+# Ignore Byebug command history file.
+.byebug_history
+
+## Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+## Environment normalization:
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
